@@ -1,0 +1,1 @@
+mongod --port 27017 --dbpath="Absolute path to db folder"
